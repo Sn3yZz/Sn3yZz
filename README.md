@@ -1,4 +1,4 @@
-## 🎈 Welcome on my profile !
+## 🥇 Welcome on my profile !
 
 <div>
   <a href="https://beacons.ai/sn3yzz">
