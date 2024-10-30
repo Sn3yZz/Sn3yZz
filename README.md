@@ -1,8 +1,7 @@
 ## 🎈 Welcome on my profile !
 
-
-**Sn3yZz/Sn3yZz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-![Sn3yZz GitHub stats](https://github-readme-stats.vercel.app/api?username=sn3yzza&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+<div>
+  <a href="https://beacons.ai/Sn3yZz">
+  <img height="180em" src="https://git-hub-readme-stats.vercel.app/api?username=Sn3yZz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://git-hub-readme-stats.vercel.app/api/top-langs/?username=Sn3yZz&layout=compact&langs_count=16&theme=dracula"/>
+</div>
