@@ -1,4 +1,4 @@
-## 🥇 Welcome on my profile !
+<!--## 🥇 Welcome on my profile !-->
 
 <div>
   <img src="https://steamuserimages-a.akamaihd.net/ugc/938308731267444441/7180B23778F19D1F79F19876AE1AED62427C5286/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="100%" style="max-width: 600px;"/>
