@@ -1,7 +1,7 @@
 <!--## 🥇 Welcome on my profile !-->
 
 <div>
-  <img src="https://i.imgur.com/EqX8JIk.png" width="100%" style="max-width: 600px;"/>
+  <img src="https://i.imgur.com/DSfibol.png" width="100%" style="max-width: 600px;"/>
 </div>
 
 <!--<div>
